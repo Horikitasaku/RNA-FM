@@ -27,7 +27,5 @@ setup(
     zip_safe=True,
     install_requires = [
         'numpy==1.22.0',
-        'tqdm==4.62',
-        'scikit-learn==0.24',
     ],
 )
