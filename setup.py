@@ -27,5 +27,6 @@ setup(
     zip_safe=True,
     install_requires = [
         'numpy==1.22.0',
+        'ptflops'
     ],
 )
