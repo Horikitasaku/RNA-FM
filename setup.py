@@ -26,7 +26,6 @@ setup(
     data_files=[("source_docs/fm", ["LICENSE", "README.md"])],
     zip_safe=True,
     install_requires = [
-        'numpy==1.22.0',
         'ptflops'
     ],
 )
